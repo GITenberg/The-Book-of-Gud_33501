@@ -1,0 +1,38 @@
+_repo: The-Book-of-Gud_33501
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hersey, Harold
+    alias: Murray, H. Kincaid
+    birthdate: 1893
+    deathdate: 1956
+    gutenberg_agent_id: '36441'
+    url: http://www.gutenberg.org/2009/agents/36441
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Hersey
+  - agent_name: Hastings, Milo
+    aliases:
+    - Spain, Dan
+    - Hastings, Milo M. (Milo Milton)
+    - Hastings, Milo Milton
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '4956'
+    url: http://www.gutenberg.org/2009/agents/4956
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
+description: ''
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gods -- Fiction'
+title: The Book of Gud
+url: http://www.gutenberg.org/ebooks/33501
