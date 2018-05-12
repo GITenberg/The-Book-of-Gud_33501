@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4956
     wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33501#The-Book-of-Gud
 gutenberg_issued: '2010-08-22'
 gutenberg_type: Text
 identifiers:
